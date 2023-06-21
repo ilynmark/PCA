@@ -1,4 +1,6 @@
 # PCA
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 This repository contains an implementation of Principal Component Analysis (PCA) for dimensionality reduction. PCA is a mathematical technique used to simplify high-dimensional datasets while retaining important information.
 
 ## The Notebook covers the following topics:
